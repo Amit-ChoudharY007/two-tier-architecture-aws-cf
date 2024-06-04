@@ -8,7 +8,7 @@ The architecture will consists of a web server and a database server. The web se
 
 ## Architecture Diagram 📊
 
-![Two-Tier-Architecture-aws-cfn](https://github.com/mathesh-me/two-tier-architecture-aws-cf/assets/144098846/a9ff29e1-b47c-447c-b53a-633db4453b8d)
+![Two-Tier-Architecture-aws-cfn](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*xAQt8hQiEHLcksAGdlPrqA.png)
 
 
 ## Prerequisites 📋
@@ -53,5 +53,4 @@ This project is licensed under the Apache License - see the [LICENSE](LICENSE) f
 
 ## Author
 
-- [Mathesh M](https://www.linkedin.com/in/mathesh-me/) on LinkedIn.
-- You Can also check out my [Medium](https://medium.com/@mathesh-me) for articles on DevOps Tools and Technologies.
+- [Amit KumaR](https://www.linkedin.com/in/amit-choudhary007/) on LinkedIn.
